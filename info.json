@@ -1,0 +1,44 @@
+{
+  "heroesList": [
+    {
+      "id": 1,
+      "name": "Captain America"
+    },
+    {
+      "id": 2,
+      "name": "Iron Man"
+    },
+    {
+      "id": 3,
+      "name": "Thor"
+    },
+    {
+      "id": 4,
+      "name": "Hulk"
+    },
+    {
+      "id": 5,
+      "name": "Doctor Strange"
+    },
+    {
+      "id": 6,
+      "name": "Black Panther"
+    },
+    {
+      "id": 7,
+      "name": "Ant-Man"
+    },
+    {
+      "id": 8,
+      "name": "Spider-Man"
+    },
+    {
+      "id": 9,
+      "name": "Guardians of the Galaxy"
+    },
+    {
+      "id": 10,
+      "name": "The Avengers"
+    }
+  ]
+}
